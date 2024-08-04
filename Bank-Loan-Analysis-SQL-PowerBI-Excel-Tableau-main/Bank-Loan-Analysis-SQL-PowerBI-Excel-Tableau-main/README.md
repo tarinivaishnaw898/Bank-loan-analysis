@@ -1,4 +1,4 @@
-![Screenshot 2024-06-17 112434](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/4ffedfcb-7fb7-436c-94d6-2dd5d39dbe94)
+
 
 # Bank Loan Portfolio Assessment
 
@@ -275,14 +275,6 @@ Thank you for exploring the bank loan analysis project. We look forward to conti
 
 ---
 
-## MIT License
 
-This project is distributed under the [MIT License](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/LICENSE) granting you the freedom to adapt and utilize the codebase as needed.
-
----
-
-### Connect With Me 
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-%23003366?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)**
 
 
